@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tenglovemeng.epointplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tenglovemeng.epointplugin.MyBundle
 
 class MyApplicationService {
 
